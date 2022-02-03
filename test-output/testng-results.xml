@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26413" started-at="2022-01-21T18:45:13 IST" finished-at="2022-01-21T18:45:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26413" started-at="2022-01-21T18:45:13 IST" finished-at="2022-01-21T18:45:40 IST">
+      <class name="TestNgpkg.amazon">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="beforeTest" is-config="true" duration-ms="3024" started-at="2022-01-21T18:45:13 IST" finished-at="2022-01-21T18:45:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="beforeMethod" is-config="true" duration-ms="1875" started-at="2022-01-21T18:45:16 IST" finished-at="2022-01-21T18:45:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AmazonSearch(java.lang.String,java.lang.String)[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="AmazonSearch" duration-ms="5030" started-at="2022-01-21T18:45:18 IST" data-provider="dataset1" finished-at="2022-01-21T18:45:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonSearch -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="beforeMethod" is-config="true" duration-ms="1176" started-at="2022-01-21T18:45:23 IST" finished-at="2022-01-21T18:45:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AmazonSearch(java.lang.String,java.lang.String)[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="AmazonSearch" duration-ms="5001" started-at="2022-01-21T18:45:24 IST" data-provider="dataset1" finished-at="2022-01-21T18:45:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amazon Fresh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[salt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonSearch -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="beforeMethod" is-config="true" duration-ms="1033" started-at="2022-01-21T18:45:29 IST" finished-at="2022-01-21T18:45:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AmazonSearch(java.lang.String,java.lang.String)[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="AmazonSearch" duration-ms="5070" started-at="2022-01-21T18:45:30 IST" data-provider="dataset1" finished-at="2022-01-21T18:45:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oneplus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonSearch -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNgpkg.amazon@7cbd213e]" name="afterTest" is-config="true" duration-ms="4160" started-at="2022-01-21T18:45:35 IST" finished-at="2022-01-21T18:45:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNgpkg.amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
